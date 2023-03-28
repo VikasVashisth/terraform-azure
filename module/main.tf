@@ -11,4 +11,4 @@ resource "azurerm_resource_group" "example-rg-vikas" {
 } 
 # output "id" {
 #     value = data.azurerm_resource_group.example-rg-vikas.id
-# }  
+# }     test
